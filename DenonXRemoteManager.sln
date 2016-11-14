@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenonXCommandInterpreter", "DenonXCommandInterpreter\DenonXCommandInterpreter.csproj", "{49CBEB44-8603-4D64-8D89-F7ECC1187B2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{AEAE1ACF-1F4E-480A-84DB-4318B4F074AC}"
+	ProjectSection(SolutionItems) = preProject
+		Docs\AVRX1000_E300_PROTOCOL(10 0 0)_V04.pdf = Docs\AVRX1000_E300_PROTOCOL(10 0 0)_V04.pdf
+		Docs\Denon Master IR Hex.xls = Docs\Denon Master IR Hex.xls
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
